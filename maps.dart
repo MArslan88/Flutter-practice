@@ -6,4 +6,5 @@ void main() {
     marks,
     {"Noman": 50, "Kashif": 60}
   ];
+  print(marks2[0]);
 }
